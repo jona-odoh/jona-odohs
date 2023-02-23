@@ -53,8 +53,8 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/jonathan-odoh-8aa801231/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jonathanoodoh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/jonathan-odoh-8aa801231/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jonathan%odoh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jonathanoodoh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jonathanoodoh__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:jonathanodoh3140@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonathanodoh3140@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
