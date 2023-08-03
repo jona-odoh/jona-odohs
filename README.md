@@ -11,13 +11,15 @@
 </p>
 
  -->
-
+<!--
 <a href="https://komarev.com/ghpvc/?username=jona-odoh">
   <img align="right" src="https://komarev.com/ghpvc/?username=jona-odoh&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+-->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -119,9 +121,7 @@ In my coding journey, I uphold some core values that guide my work:
 
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=jona-odoh&repo=emergency-management-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jona-odoh/emergency-management-system)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=jona-odoh&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jona-odoh/al-folio)
-[![jona-odoh Readme](https://github-readme-stats.vercel.app/api/pin/?username=jona-odoh&repo=jona-odoh&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jona-odoh/jona-odoh)
-[![jona-odoh Teminal](https://github-readme-stats.vercel.app/api/pin/?username=jona-odoh&repo=jona-odoh.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/jona-odoh/jona-odoh.github.io)
+
 
 <p align="left">
   <a href="https://github.com/jona-odoh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
