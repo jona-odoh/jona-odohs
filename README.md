@@ -157,5 +157,5 @@ I'm excited to be a part of this thriving developer community. If you share simi
 <a href="https://www.instagram.com/jonathanoodoh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Jonathanoodoh__-blue?style=flat-square&logo=instagram"></a> 
 <a href="mailto:jonathanodoh3140@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonathanodoh3140@gmail.com-blue?style=flat-square&logo=gmail"></a> <a href="https://web.facebook.com/profile.php?id=100076007224477&_rdc=1&_rdr"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-https://web.facebook.com/profile.php?id=100076007224477&_rdc=1&_rdr-blue?style=flat-square&logo=facebook"></a>. Let's geek out together!
 
-Happy coding! 😄🚀
+Happy coding!😄🚀
 </p>
